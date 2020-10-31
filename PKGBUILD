@@ -2,7 +2,7 @@
 
 pkgname=bottom-bin
 pkgver=0.3.0
-pkgrel=0
+pkgrel=1
 pkgdesc='Yet another cross-platform graphical process/system monitor.'
 provides=('bottom')
 conflicts=('bottom')
